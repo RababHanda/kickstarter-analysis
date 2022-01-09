@@ -48,10 +48,9 @@ As I have been using Excel extensively at my work for over 3 years, I faced no a
 
 - What can you conclude about the Outcomes based on Goals?
     - The percentage of successful outcomes reduces as the fundraising goal increases, while the reverse is true for failed campaigns (percentage increases as the goals increases)
-    - 
 
 - What are some limitations of this dataset?
-    - 
+    - The dataset comes without description of certain columns, like Staff Pick and Spotlight, therefore those cannot be used in any form of analysis
 
 - What are some other possible tables and/or graphs that we could create?
     - Tables and graphs could be created to study the outcome trends in different countries for different subcategories (perhaps theatres fare better in some countries over others, whereas movies fare better in some and not in others)
